@@ -8,10 +8,10 @@
     <a href="https://npmjs.com/package/@fadzzz404/baileys">
       <img src="https://img.shields.io/npm/v/@fadzzz404/baileys?color=blue&logo=npm" alt="npm version">
     </a>
-    <a href="https://github.com/fadzzz404/bail/blob/main/LICENSE">
+    <a href="https://github.com/fadzzz404/baileys/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/fadzzz404/bail?color=green" alt="license">
     </a>
-    <a href="https://github.com/fadzzz404/bail/stargazers">
+    <a href="https://github.com/fadzzz404/baileys/stargazers">
       <img src="https://img.shields.io/github/stars/fadzzz404/bail?color=yellow&logo=github" alt="github stars">
     </a>
   </p>
